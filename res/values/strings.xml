@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MalaSola</string>
+    <string name="view_image">Poglej sliko</string>
+    <string name="open_openimageactivity">Odpri OpenImageActivity</string>
+    <string name="open_image">Odpri sliko</string>
+    <string name="open_google">Odpri www.google.com</string>
+    <string name="run_filereadingservice">Zazeni FileReadingService</string>
+    <string name="select_file">Izberi datoteko</string>
+    <string name="select_contact">Izberi kontakt</string>
+    <string name="send_image">Poslji sliko</string>
+    <string name="image_display_name_default">The name of the image</string>
+    <string name="image_description">The image</string>
+</resources>
