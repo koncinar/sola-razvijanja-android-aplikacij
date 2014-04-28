@@ -19,7 +19,6 @@ import java.io.InputStream;
 
 /**
  * <p></p>
- * <p>Created by <a href="mailto:rkoneina@good.com">Rok Koncina</a> on 2.2.2014.</p>
  */
 public class OpenImageActivity extends Activity {
     private Uri currentUri;

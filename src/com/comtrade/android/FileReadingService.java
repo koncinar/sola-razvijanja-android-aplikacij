@@ -3,7 +3,6 @@ package com.comtrade.android;
 import android.app.IntentService;
 import android.content.Intent;
 import android.os.Handler;
-import android.os.IBinder;
 import android.os.Looper;
 import android.widget.Toast;
 
@@ -11,7 +10,6 @@ import java.util.logging.Logger;
 
 /**
  * <p></p>
- * <p>Created by <a href="mailto:rkoneina@good.com">Rok Koncina</a> on 2.2.2014.</p>
  */
 public class FileReadingService extends IntentService {
     public static final Logger log = Logger.getLogger(FileReadingService.class.getSimpleName());
