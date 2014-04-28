@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="2">
+    <fragment android:id="@+id/frg_list_files"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_weight="1"
+              android:name="com.comtrade.android.fragments.ListFilesFragment"/>
+    <FrameLayout android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:id="@+id/frg_preview_image"
+                 android:layout_weight="1"/>
+</LinearLayout>
